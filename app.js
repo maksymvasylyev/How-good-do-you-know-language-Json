@@ -49,6 +49,7 @@ Array.from(data).forEach((element,index) => {
       className: "input-no",
       value: "no",
       id: "no"+index,
+      required: true
 
     });
   
