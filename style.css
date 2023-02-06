@@ -10,6 +10,8 @@ body {
   form {
     border: 1px solid black;
     padding: 20px;
+    min-height: 60vh;
+    min-width: 60vw;
   }
   
   .question {
